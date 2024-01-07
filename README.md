@@ -16,8 +16,8 @@ To run this project, please follow the following steps.
 a) Build the project.<br />
 b) Update the connection string for the SQL server.<br />
 c) In the package manager console run the following commands<br />
-      "Add-Migration InitialCreate"<br />
-      "update-database"<br />
+      
+      \t"update-database"<br />
 d) Run the project<br />
 <br />
 <br />
