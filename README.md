@@ -17,7 +17,7 @@ a) Build the project.<br />
 b) Update the connection string for the SQL server.<br />
 c) In the package manager console run the following commands<br />
       
-      \t"update-database"<br />
+      "update-database"
 d) Run the project<br />
 <br />
 <br />
