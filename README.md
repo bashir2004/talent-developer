@@ -1,3 +1,5 @@
+The project is not a real project, It was an assignment by a client to check the coding. 
+
 # talent-management
 This API is designed to manage talent. Talent is referred to as an employee in the project. It has the following API. <br />
 1. [GET] api/employee/get-all -- This API has no pagination. It returns all employees/talent.<br />
